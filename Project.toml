@@ -1,0 +1,13 @@
+name = "UniformScalingMatrixFunctions"
+uuid = "55c7624e-0340-46b1-b4aa-2d84dc443d2c"
+authors = ["Stefanos Carlström <stefanos.carlstrom@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
